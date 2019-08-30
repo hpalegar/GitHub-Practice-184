@@ -31,7 +31,8 @@
 
 |Name                     |GitHub ID             |website for a GitHub repo                                |  
 |:------------------------|:---------------------|:--------------------------------------------------------|  
-| Andy Wiesner | AndyWiesner | <https://AndyWiesner.github.io/> |  
+| Andy Wiesner | AndyWiesner | <https://AndyWiesner.github.io/> |
+| Harshitha Palegar| hpalegar | <https://hpalegar.github.io/Stat184Repo/> |
 
 <br>
 
